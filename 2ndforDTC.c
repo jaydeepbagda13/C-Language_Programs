@@ -9,9 +9,9 @@ int main()
 
     // Arithmetic operators
     int sum = a + 5;
-    int difference = a - 5;
-    int multiplication = a * 5;
-    int division = a / 5;
+    int dif = a - 5;
+    int multi = a * 5;
+    int div = a / 5;
     int remainder = a % 3;
 
     // Output
@@ -21,9 +21,9 @@ int main()
 
     printf("\nArithmetic Operators:\n");
     printf("a + 5 = %d\n", sum);
-    printf("a - 5 = %d\n", difference);
-    printf("a * 5 = %d\n", multiplication);
-    printf("a / 5 = %d\n", division);
+    printf("a - 5 = %d\n", dif);
+    printf("a * 5 = %d\n", multi);
+    printf("a / 5 = %d\n", div);
     printf("a %% 3 = %d\n", remainder);
 
     return 0;
