@@ -9,9 +9,9 @@ int main()
 
     // Arithmetic operators
     int sum = a + 5;
-    int difference = a - 5;
-    int multiplication = a * 5;
-    int division = a / 5;
+    int dif = a - 5;
+    int multi = a * 5;
+    int div = a / 5;
     int remainder = a % 3;
 
     // Output
