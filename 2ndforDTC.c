@@ -24,7 +24,7 @@ int main()
     printf("a - 5 = %d\n", difference);
     printf("a * 5 = %d\n", multiplication);
     printf("a / 5 = %d\n", division);
-    printf("a %% 3 = %d\n", remainder);
+    printf("a % 3 = %d\n", remainder);
 
     return 0;
 }
